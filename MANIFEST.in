@@ -1,0 +1,4 @@
+include README.md
+recursive-include OctoPrint_NotifyProwl/templates *
+recursive-include OctoPrint_NotifyProwl/translations *
+recursive-include OctoPrint_NotifyProwl/static *
